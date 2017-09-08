@@ -1,3 +1,4 @@
+#to create a simple webserver
 const http = require('http');
 
 http.createServer(function (req,res) {
